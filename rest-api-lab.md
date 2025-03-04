@@ -749,6 +749,7 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
 
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเรียกดูข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-04 132011](https://github.com/user-attachments/assets/717bac00-0c53-4889-b616-287d2ed3b11f)
 
 
    d. อัพเดตข้อมูล (PUT):
