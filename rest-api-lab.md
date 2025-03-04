@@ -770,6 +770,7 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    ```
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-04 134217](https://github.com/user-attachments/assets/ffc2be1c-4bbf-4820-9a3e-5dd2ed4849ff)
 
    e. ลบข้อมูล (DELETE):
    - URL: `http://localhost:5000/api/bookings/1`
