@@ -748,6 +748,7 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
 
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเรียกดูข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-04 124611](https://github.com/user-attachments/assets/3d9fbe02-a6d7-4c65-a4ed-bb19dcba8b04)
 
    d. อัพเดตข้อมูล (PUT):
    - URL: `http://localhost:5000/api/bookings/1`
