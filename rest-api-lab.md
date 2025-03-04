@@ -777,3 +777,4 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
 
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-04 132153](https://github.com/user-attachments/assets/03a20ead-5d9e-44c4-b11c-c616528ef1ce)
